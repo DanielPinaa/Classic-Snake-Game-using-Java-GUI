@@ -18,7 +18,7 @@ To execute the game you have three choices:
           
   3. Making a executable file 
 
-           This option is the most comfortable for the future because you'll only need to click in a 'executable' file and the game will run perfectly.
+          This option is the most comfortable for the future because you'll only need to click in a 'executable' file and the game will run perfectly.
           It is necessary to follow the same steps and recomendations of the previous option except the last step (2).
           Open a text editor and type the next code: 
                   cd PATH WHERE ALL THE JAVA FILES ARE LOCATED

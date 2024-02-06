@@ -1,4 +1,4 @@
-If you want to try the game you have to use a IDE like Visual Studio Code, Eclipse or any other from the same style to compile it.
+If you want to try the game here I explained some possible ways to do it.
 I didn't upload a executable because it can make users think it could be a virus or some malicious code.
 
 

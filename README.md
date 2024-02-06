@@ -22,8 +22,10 @@ To execute the game you have three choices:
           It is necessary to follow the same steps and recomendations of the previous option except the last step (2).
           Open a text editor and type the next code:
      
+          - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -      
           cd PATH WHERE ALL THE JAVA FILES ARE LOCATED
           java SnakeGame
-
+          - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+     
           Save this code and put it the name you prefer to identify the executable file.
           You can add a .bash (Linux) or a .batch (Windows) extension to the executable file, depending on wich operative system you have installed. 
